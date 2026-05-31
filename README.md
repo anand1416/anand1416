@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi, I'm Anand Nawale 👋
 
-<!--
-**anand1416/anand1416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- Java Developer
+- Cybersecurity Enthusiast
+- Open Source Contributor
+- Spring Boot & React Developer
+- Exploring OWASP and Security Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Backend
+- Spring Boot
+- REST APIs
+
+### Frontend
+- React.js
+- HTML
+- CSS
+
+### Database
+- MySQL
+
+### Cybersecurity
+- Nmap
+- Metasploit
+- Nikto
+- OWASP Tools
+
+### Tools
+- Git
+- GitHub
+- Linux
+- Maven
+- VS Code
+
+---
+
+## 🌟 Open Source Contributions
+
+### OWASP Dependency-Check
+
+- Fixed issue #8442
+- Added missing `nvd.api.key` configuration entry
+- Pull Request #8549 merged into main branch
+- Included in milestone 13.0.0
+
+---
+
+## 📂 Featured Projects
+
+### AutoVuln Scanner
+Automated vulnerability scanner using:
+- Python
+- Nmap
+- Metasploit
+- Nikto
+
+Features:
+- Service discovery
+- Vulnerability detection
+- Report generation
+- Security automation
+
+---
+
+## 📈 Current Goals
+
+- Contribute regularly to OWASP projects
+- Participate in LFX Mentorship
+- Improve Java and Spring Boot expertise
+- Build advanced cybersecurity tools
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/anand1416
+- LinkedIn: Add your LinkedIn profile here
+
+---
+
+⭐ Thanks for visiting my profile!
