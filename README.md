@@ -1,3 +1,9 @@
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Projects-red?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-Contributor-purple?style=for-the-badge)
+
 # Hi, I'm Anand Nawale 👋
 
 ## 🚀 About Me
