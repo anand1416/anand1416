@@ -35,6 +35,7 @@
 
 ### Database
 - MySQL
+- Mongodb
 
 ### Cybersecurity
 - Nmap
