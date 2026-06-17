@@ -92,7 +92,6 @@ Features:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/anand1416
-- LinkedIn: Add your LinkedIn profile here
 
 ---
 
